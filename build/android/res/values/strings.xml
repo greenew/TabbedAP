@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="app_name" formatted="false">ThemedTab</string>
+	<string name="home" formatted="false">Home</string>
+	<string name="settings" formatted="false">Settings</string>
+	<string name="openWindow" formatted="false">Open New Window</string>
+	<string name="newWindow" formatted="false">New Window</string>
+</resources>
