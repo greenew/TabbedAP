@@ -1,0 +1,13 @@
+
+<!-- Works for Titanium SDK 3.2.x and earlier when built against Android 4.0x/API Level 14 -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Available for Android 4.0.x/API Level 14 and later -->
+<style name="LightDarkBar" parent="@android:style/Theme.Holo.Light.DarkActionBar"/>
+<!-- Available for Android 3.0.x/API Level 11 and later -->
+<style name="Light" parent="@android:style/Theme.Holo.Light"/>
+<style name="Dark" parent="@android:style/Theme.Holo"/>
+<!-- Available for all Android versions -->
+<style name="OldLight" parent="@android:style/Theme.Light"/>
+<style name="OldDark" parent="@android:style/Theme.Black"/>
+</resources>
